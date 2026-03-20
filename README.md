@@ -18,4 +18,6 @@ The goal is to build strong intuition through:
 - Codes that are easy to understand.
 - Increasing difficulty levels. 
 
+Make sure to follow C topic-wise for better understanding. 
+
 I hope this helps :) 
